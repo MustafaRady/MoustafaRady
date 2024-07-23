@@ -1,7 +1,6 @@
 # MoustafaRady# Hi there, I'm Moustafa Rady! 👋
 
 ## About Me
-- 🌱 I’m currently learning Angular and Firebase.
 - 💼 Full Stack Web Developer
 - 📫 How to reach me: [moustafaradi423@gmail.com](mailto:moustafaradi423@gmail.com)
 - 😄 Pronouns: He/Him
