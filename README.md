@@ -16,7 +16,6 @@
 </a>
 
 ## Tech Stack
-## Tech Stack
 
 <a href="https://angular.io/" target="_blank">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
